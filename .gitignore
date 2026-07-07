@@ -3,7 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
-.api-key
+.C:\Users\igorf\Documents\JAVA\PROJETO_WEATHER_API_JAVA\src\main\java\com\weatherapi\projeto_weather_api_java\api-key.txt
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
